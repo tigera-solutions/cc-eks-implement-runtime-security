@@ -18,7 +18,7 @@
 3. Delete this repo
 
    ```bash
-   cd .. && rm -Rf cc-eks-visualize-identify-security-gaps
+   cd .. && rm -Rf cc-eks-implement-runtime-security
    ```
 
 4. Delete environment variables backup file.
