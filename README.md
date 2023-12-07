@@ -2,7 +2,7 @@
 
 ## Welcome
 
-In this EKS-focused workshop, you will work with AWS and Calico Cloud to learn how to protect containers in your Kubernetes cluster from known and zero-day threats based container and network attacks running on Microsoft AKS.
+In this EKS-focused workshop, you will work with AWS and Calico Cloud to learn how to protect containers in your Kubernetes cluster from known and zero-day threats based container and network attacks running on Amazon EKS.
 
 In an increasingly interconnected and digital world, the security of your EKS clusters is non-negotiable. This workshop equips you with the knowledge and skills to fortify your cluster's defenses comprehensively, ensuring the protection of critical workloads and sensitive data. It empowers you to customize security measures to fit your organization's unique requirements and keeps you ahead of the curve in a rapidly evolving cybersecurity landscape.
 
@@ -30,7 +30,7 @@ The estimated time to complete this workshop is 60-90 minutes.
 - **Configure Workload-Centric WAF**: Dive into the configuration of the workload-centric Web Application Firewall (WAF) to safeguard your cluster from network-based threats.
 - **Zero-Day Attack Detection**: Learn how to detect zero-day attacks by monitoring suspicious container activity, enabling you to proactively respond to emerging threats.
 - **Security Policy Enforcement**: Preview and enforce security policies to quarantine infected workloads, preventing the spread of threats within your Kubernetes environment.
-- **Visualize Security Posture**: Learn how to effectively visualize the security posture of your Azure AKS cluster, allowing you to identify potential vulnerabilities and weaknesses.
+- **Visualize Security Posture**: Learn how to effectively visualize the security posture of your Amazon EKS cluster, allowing you to identify potential vulnerabilities and weaknesses.
 
 ## Workshop Environment Preparation
 
